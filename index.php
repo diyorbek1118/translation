@@ -16,7 +16,7 @@
             <form id="translate-form">
                 <div class="language-select">
                     <select id="source-language" name="lan1">
-                        <option value="uz">Tojik</option>
+                        <option value="uz">Uzbek</option>
                         <option value="en">Ingliz</option>
                         <!-- Qo'shimcha tillarni bu yerga qo'shishingiz mumkin -->
                     </select>
